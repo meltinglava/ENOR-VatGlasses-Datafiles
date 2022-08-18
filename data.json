@@ -1,0 +1,1139 @@
+{
+    "airspace": [
+        {
+            "id": "S1",
+            "group": "ENOS",
+            "owner": [
+                "1R",
+                "6R",
+                "4R",
+                "8R",
+                "NS",
+                "NO"
+            ],
+            "sectors":[
+                {
+                    "max": "215",
+                    "min": "115",
+                    "points": [
+
+                    ]
+                },
+                {
+                    "max": "215",
+                    "min": "95",
+                    "points": [
+                    
+                    ]
+                },
+                {
+                    "min": "215",
+                    "points": [
+                        
+                    ]
+                },
+                {
+                    "id": "S2",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S3",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S4",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S5",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S6",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S7",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S8",
+                    "group": "ENOS",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S9",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S10",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S11",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S12",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S13",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S14",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S15",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S16",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S17",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S20",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S21",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S22",
+                    "group": "ENSV",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S18",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S19",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S24",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S27",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S25",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S26",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "S23",
+                    "group": "ENBD",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENOB",
+                    "group": "ENOB",
+                    "owner": "R6",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "GME",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "GMW",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Farris",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENCN",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENZV",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENBR",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Møre",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENOL",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENRO",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENBN",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENBO",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Lofoten",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENAN",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENTC",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Hammerfest",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENAT",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENNA",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENKR",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENEV",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "ENDU",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Helgeland",
+                    "group": "APP",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Røros",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Finnmark",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Namsos",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Sørkjosen",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Sogn",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                },
+                {
+                    "id": "Longyear",
+                    "group": "TIA",
+                    "owner": "",
+                    "sectors": [
+                        {
+
+                        }
+                    ]
+
+                }
+            ]
+        }
+    ],
+    "groups": {
+        "ENOS":{"name": "Oslo ACC"},
+        "ENSV":{"name": "Stavanger ACC"},
+        "ENBD":{"name": "Bodø ACC"},
+        "ENOB":{"name": "Bodø OFIR"},
+        "APP":{"name": "Approach TMA"},
+        "TIA":{"name": "Traffic Information Area (RMZ)"},
+        "TWR":{"name": "Tower"},
+        "TIZ":{"name": "Traffic Information Zone (RMZ)"}
+    },
+    "positions": {
+        "1R": {"colours": [{"hex": "#DFFF00"}], "pre": ["ENOS"], "type": "CTR", "frequency": "118.825","callsign": "Polaris Control"},
+        "2R": {"colours": [{"hex": "#FFBF00"}], "pre": ["ENOS"], "type": "CTR", "frequency": "126.625","callsign": "Polaris Control"},
+        "3R": {"colours": [{"hex": "#6495ED"}], "pre": ["ENOS"], "type": "CTR", "frequency": "125.050","callsign": "Polaris Control"},
+        "4R": {"colours": [{"hex": "#CCCCFF"}], "pre": ["ENOS"], "type": "CTR", "frequency": "118.875","callsign": "Polaris Control"},
+        "5R": {"colours": [{"hex": "#FF7F50"}], "pre": ["ENOS"], "type": "CTR", "frequency": "127.250","callsign": "Polaris Control"},
+        "6R": {"colours": [{"hex": "#40E0D0"}], "pre": ["ENOS"], "type": "CTR", "frequency": "120.375","callsign": "Polaris Control"},
+        "7R": {"colours": [{"hex": "#008080"}], "pre": ["ENOS"], "type": "CTR", "frequency": "124.775","callsign": "Polaris Control"},
+        "8R": {"colours": [{"hex": "#9FE2BF"}], "pre": ["ENOS"], "type": "CTR", "frequency": "134.350","callsign": "Polaris Control"},
+        "9R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "120.650","callsign": "Polaris Control"},
+        "10R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "136.275","callsign": "Polaris Control"},
+        "13R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "134.925","callsign": "Polaris Control"},
+        "14R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "124.575","callsign": "Polaris Control"},
+        "15R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "135.675","callsign": "Polaris Control"},
+        "17R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "124.700","callsign": "Polaris Control"},
+        "21R": {"colours": [{"hex": ""}], "pre": ["ENSV"], "type": "CTR", "frequency": "134.200","callsign": "Polaris Control (Offshore)"},
+        "23R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "124.300","callsign": "Polaris Control (Offshore)"},
+        "18R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "125.700","callsign": "Polaris Control"},
+        "19R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "131.100","callsign": "Polaris Control"},
+        "24R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "118.550","callsign": "Polaris Control"},
+        "25R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "126.450","callsign": "Polaris Control"},
+        "26R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "126.700","callsign": "Polaris Control"},
+        "NO": {"colours": [{"hex": ""}], "pre": ["ENOR"], "type": "CTR", "frequency": "125.500","callsign": "Polaris Control"},
+        "NS": {"colours": [{"hex": ""}], "pre": ["ENOR"], "type": "CTR", "frequency": "121.550","callsign": "Polaris Control"},
+        "R6": {"colours": [{"hex": ""}], "pre": ["ENOB"], "type": "CTR", "frequency": "123.175","callsign": "Bodø Oceanic Control"},
+        "RC": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.325","callsign": "Bodø RTC"},
+        "RS": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.425","callsign": "Bodø South RTC"},
+        "": {"pre": ["EN"], "type":"APP","frequency":"","callsign": " Approach"},
+    },
+    "callsigns": {
+        "DEL": {
+          "": "Delivery",
+          "A": "Planner"
+        },
+        "GND": {
+          "": "Ground",
+          "P": "Sequencer",
+          "Q": "Sequencer"
+        },
+        "TWR": {
+          "": "Tower",
+          "I": "Information (AFIS)",
+          "H": "Information (HFIS)"
+        },
+        "APP": {
+          "": "Approach",
+          "F": "Final",
+          "D": "Director",
+          "A": "Arrival"
+        }
+      },
+      "airports": {
+        "ENGM": {
+            "callsign": "Oslo",
+            "coord": [
+                60.202777777778, 11.083888888889
+            ],
+            "runways": [
+                "01","19"
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENAT": {
+            "callsign": "Alta",
+            "coord": [
+                69.976111111111, 23.371666666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENAN": {
+            "callsign": "Andøya",
+            "coord": [
+                69.2925, 16.144166666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENDU": {
+            "callsign": "Bardufoss",
+            "coord": [
+                69.055833333333, 18.540277777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBR": {
+            "callsign": "Flesland",
+            "coord": [
+                60.293611111111, 5.2180555555556
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBV": {
+            "callsign": "Berlevåg",
+            "coord": [
+                70.871388888889, 29.034166666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBO": {
+            "callsign": "Bodø",
+            "coord": [
+                67.269166666667, 14.365277777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBN": {
+            "callsign": "Bronnøy",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBS": {
+            "callsign": "Båtsfjord",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENFL": {
+            "callsign": "Florø",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENBL": {
+            "callsign": "Bringeland",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENHF": {
+            "callsign": "Hammerfest",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENEV": {
+            "callsign": "Evenes",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENHK": {
+            "callsign": "Hasvik",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENHD": {
+            "callsign": "Karmøy",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENHV": {
+            "callsign": "Valan",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENKR": {
+            "callsign": "Kirkenes",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENCN": {
+            "callsign": "Kjevik",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENKB": {
+            "callsign": "Kvernberget",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENNA": {
+            "callsign": "Banak",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENLK": {
+            "callsign": "Leknes",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENMH": {
+            "callsign": "Mehanm",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENRA": {
+            "callsign": "Røssvold",
+            "coord": [
+
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENML": {
+            "callsign": "Molde",
+            "coord": [
+                62.744722222222, 7.2625
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENMS": {
+            "callsign": "Mosjøen",
+            "coord": [
+                65.783611111111, 13.215277777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENNM": {
+            "callsign": "Namsos",
+            "coord": [
+                64.472222222222, 11.578611111111
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENNO": {
+            "callsign": "Notodden",
+            "coord": [
+                59.565555555556, 9.2122222222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENAS": {
+            "callsign": "Ny-Ålesund",
+            "coord": [
+                78.927777777778, 11.874722222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENRY": {
+            "callsign": "Rygge",
+            "coord": [
+                59.378888888889, 10.785555555556
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENRO": {
+            "callsign": "Røros",
+            "coord": [
+                62.578888888889, 11.345
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENRM": {
+            "callsign": "Rørvik",
+            "coord": [
+                64.838333333333, 11.146111111111
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENRS": {
+            "callsign": "Røst",
+            "coord": [
+                67.527777777778, 12.103333333333
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSD": {
+            "callsign": "Anda",
+            "coord": [
+                61.83, 6.1058333333333
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENTO": {
+            "callsign": "Torp",
+            "coord": [
+                59.186666666667, 10.258611111111
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENST": {
+            "callsign": "Sørstokken",
+            "coord": [
+                65.959722222222, 12.472222222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSG": {
+            "callsign": "Sogndal",
+            "coord": [
+                61.156111111111, 7.1377777777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENZV": {
+            "callsign": "Sola",
+            "coord": [
+                58.876666666667, 5.6377777777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSK": {
+            "callsign": "Skagen",
+            "coord": [
+                68.580833333333, 15.026111111111
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSO": {
+            "callsign": "Sørstokken",
+            "coord": [
+                59.792777777778, 5.3397222222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSB": {
+            "callsign": "Longyear",
+            "coord": [
+                78.246111111111, 15.465555555556
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSH": {
+            "callsign": "Helle",
+            "coord": [
+                68.243333333333, 14.669166666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSR": {
+            "callsign": "Sørkjosen",
+            "coord": [
+                69.786666666667, 20.959722222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENTC": {
+            "callsign": "Tromsø",
+            "coord": [
+                69.681388888889, 18.917777777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENVA": {
+            "callsign": "Værnes",
+            "coord": [
+                63.4575, 10.924166666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENVD": {
+            "callsign": "Vadsø",
+            "coord": [
+                70.065277777778, 29.844722222222
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENSS": {
+            "callsign": "Vardø",
+            "coord": [
+                70.355277777778, 31.045
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENOL": {
+            "callsign": "Ørland",
+            "coord": [
+                63.7, 9.6027777777778
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENOV": {
+            "callsign": "Hovden",
+            "coord": [
+                62.18, 6.0741666666667
+            ],
+            "enroute": [
+
+            ]
+        },
+        "ENAL": {
+            "callsign": "Vigra",
+            "coord": [
+                62.5625, 6.1197222222222
+            ],
+            "enroute": [
+
+            ]
+        }
+      }
+}
