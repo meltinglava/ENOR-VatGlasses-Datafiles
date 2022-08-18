@@ -746,7 +746,7 @@
 
                 },
                 {
-                    "id": "Møre",
+                    "id": "MÃ¸re",
                     "group": "APP",
                     "owner": "",
                     "sectors": [
@@ -911,7 +911,7 @@
 
                 },
                 {
-                    "id": "Røros",
+                    "id": "RÃ¸ros",
                     "group": "TIA",
                     "owner": "",
                     "sectors": [
@@ -944,7 +944,7 @@
 
                 },
                 {
-                    "id": "Sørkjosen",
+                    "id": "SÃ¸rkjosen",
                     "group": "TIA",
                     "owner": "",
                     "sectors": [
@@ -982,8 +982,8 @@
     "groups": {
         "ENOS":{"name": "Oslo ACC"},
         "ENSV":{"name": "Stavanger ACC"},
-        "ENBD":{"name": "Bodø ACC"},
-        "ENOB":{"name": "Bodø OFIR"},
+        "ENBD":{"name": "BodÃ¸ ACC"},
+        "ENOB":{"name": "BodÃ¸ OFIR"},
         "APP":{"name": "Approach TMA"},
         "TIA":{"name": "Traffic Information Area (RMZ)"},
         "TWR":{"name": "Tower"},
@@ -1013,14 +1013,14 @@
         "26R": {"colours": [{"hex": ""}], "pre": ["ENBD"], "type": "CTR", "frequency": "126.700","callsign": "Polaris Control"},
         "NO": {"colours": [{"hex": ""}], "pre": ["ENOR"], "type": "CTR", "frequency": "125.500","callsign": "Polaris Control"},
         "NS": {"colours": [{"hex": ""}], "pre": ["ENOR"], "type": "CTR", "frequency": "121.550","callsign": "Polaris Control"},
-        "R6": {"colours": [{"hex": ""}], "pre": ["ENOB"], "type": "CTR", "frequency": "123.175","callsign": "Bodø Oceanic Control"},
-        "RC": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.325","callsign": "Bodø RTC"},
-        "RS": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.425","callsign": "Bodø South RTC"},
+        "R6": {"colours": [{"hex": ""}], "pre": ["ENOB"], "type": "CTR", "frequency": "123.175","callsign": "BodÃ¸ Oceanic Control"},
+        "RC": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.325","callsign": "BodÃ¸ RTC"},
+        "RS": {"colours": [{"hex": ""}], "pre": ["ENRC"], "type": "CTR", "frequency": "118.425","callsign": "BodÃ¸ South RTC"},
         "AT": {"pre": ["ENAT"], "type":"APP","frequency":"120.400","callsign": "Alta Tower"},
-        "AN": {"pre": ["ENAN"], "type":"APP","frequency":"118.700","callsign": "Andøya Tower"},
+        "AN": {"pre": ["ENAN"], "type":"APP","frequency":"118.700","callsign": "AndÃ¸ya Tower"},
         "NA": {"pre": ["ENNA"], "type":"APP","frequency":"118.900","callsign": "Banak Tower"},
         "DU": {"pre": ["ENDU"], "type":"APP","frequency":"118.800","callsign": "Bardufoss Approach"},
-        "BO": {"pre": ["ENBO"], "type":"APP","frequency":"124.000","callsign": "Bodø Approach"},
+        "BO": {"pre": ["ENBO"], "type":"APP","frequency":"124.000","callsign": "BodÃ¸ Approach"},
         "EV": {"pre": ["ENEV"], "type":"APP","frequency":"120.100","callsign": "Evenes Approach"},
         "FWR": {"pre": ["ENTO"], "type":"APP","frequency":"134.050","callsign": "Farris Approach"},
         "FER": {"pre": ["ENTO"], "type":"APP","frequency":"124.350","callsign": "Farris Approach"},
@@ -1029,8 +1029,8 @@
         "D": {"pre": ["ENBR"], "type":"APP","frequency":"118.850","callsign": "Flesland Director"},
         "KR": {"pre": ["ENKR"], "type":"APP","frequency":"120.350","callsign": "Kirkenes Tower"},
         "CN": {"pre": ["ENCN"], "type":"APP","frequency":"119.950","callsign": "Kjevik Approach"},
-        "QD": {"pre": ["ENKB"], "type":"APP","frequency":"119.350","callsign": "Møre Approach"},
-        "QR": {"pre": ["ENAL"], "type":"APP","frequency":"129.325","callsign": "Møre Approach"},
+        "QD": {"pre": ["ENKB"], "type":"APP","frequency":"119.350","callsign": "MÃ¸re Approach"},
+        "QR": {"pre": ["ENAL"], "type":"APP","frequency":"129.325","callsign": "MÃ¸re Approach"},
         "GWR": {"pre": ["ENGM"], "type":"APP","frequency":"120.450","callsign": "Oslo Approach"},
         "GER": {"pre": ["ENGM"], "type":"APP","frequency":"118.475","callsign": "Oslo Approach"},
         "DD": {"pre": ["ENGM"], "type":"APP","frequency":"136.400","callsign": "Oslo Director"},
@@ -1039,11 +1039,11 @@
         "ZAR": {"pre": ["ENZV"], "type":"APP","frequency":"119.600","callsign": "Sola Approach"},
         "ZER": {"pre": ["ENZV"], "type":"APP","frequency":"119.400","callsign": "Sola Arrival"},
         "ZED": {"pre": ["ENZV"], "type":"APP","frequency":"118.500","callsign": "Sola Director"},
-        "TC": {"pre": ["ENTC"], "type":"APP","frequency":"123.750","callsign": "Værnes Approach"},
-        "CR": {"pre": ["ENVA"], "type":"APP","frequency":"118.600","callsign": "Værnes Approach"},
-        "CD": {"pre": ["ENVA"], "type":"APP","frequency":"119.150","callsign": "Værnes Director"},
-        "ER": {"pre": ["ENOL"], "type":"APP","frequency":"118.250","callsign": "Ørland Approach"},
-        "ED": {"pre": ["ENOL"], "type":"APP","frequency":"126.200","callsign": "Ørland Approach"},
+        "TC": {"pre": ["ENTC"], "type":"APP","frequency":"123.750","callsign": "VÃ¦rnes Approach"},
+        "CR": {"pre": ["ENVA"], "type":"APP","frequency":"118.600","callsign": "VÃ¦rnes Approach"},
+        "CD": {"pre": ["ENVA"], "type":"APP","frequency":"119.150","callsign": "VÃ¦rnes Director"},
+        "ER": {"pre": ["ENOL"], "type":"APP","frequency":"118.250","callsign": "Ã˜rland Approach"},
+        "ED": {"pre": ["ENOL"], "type":"APP","frequency":"126.200","callsign": "Ã˜rland Approach"},
     },
     "callsigns": {
         "DEL": {
@@ -1091,7 +1091,7 @@
             ]
         },
         "ENAN": {
-            "callsign": "Andøya",
+            "callsign": "AndÃ¸ya",
             "coord": [
                 69.2925, 16.144166666667
             ],
@@ -1118,7 +1118,7 @@
             ]
         },
         "ENBV": {
-            "callsign": "Berlevåg",
+            "callsign": "BerlevÃ¥g",
             "coord": [
                 70.871388888889, 29.034166666667
             ],
@@ -1127,7 +1127,7 @@
             ]
         },
         "ENBO": {
-            "callsign": "Bodø",
+            "callsign": "BodÃ¸",
             "coord": [
                 67.269166666667, 14.365277777778
             ],
@@ -1136,7 +1136,7 @@
             ]
         },
         "ENBN": {
-            "callsign": "Bronnøy",
+            "callsign": "BronnÃ¸y",
             "coord": [
 
             ],
@@ -1145,7 +1145,7 @@
             ]
         },
         "ENBS": {
-            "callsign": "Båtsfjord",
+            "callsign": "BÃ¥tsfjord",
             "coord": [
 
             ],
@@ -1154,7 +1154,7 @@
             ]
         },
         "ENFL": {
-            "callsign": "Florø",
+            "callsign": "FlorÃ¸",
             "coord": [
 
             ],
@@ -1199,7 +1199,7 @@
             ]
         },
         "ENHD": {
-            "callsign": "Karmøy",
+            "callsign": "KarmÃ¸y",
             "coord": [
 
             ],
@@ -1271,7 +1271,7 @@
             ]
         },
         "ENRA": {
-            "callsign": "Røssvold",
+            "callsign": "RÃ¸ssvold",
             "coord": [
 
             ],
@@ -1289,7 +1289,7 @@
             ]
         },
         "ENMS": {
-            "callsign": "Mosjøen",
+            "callsign": "MosjÃ¸en",
             "coord": [
                 65.783611111111, 13.215277777778
             ],
@@ -1316,7 +1316,7 @@
             ]
         },
         "ENAS": {
-            "callsign": "Ny-Ålesund",
+            "callsign": "Ny-Ã…lesund",
             "coord": [
                 78.927777777778, 11.874722222222
             ],
@@ -1334,7 +1334,7 @@
             ]
         },
         "ENRO": {
-            "callsign": "Røros",
+            "callsign": "RÃ¸ros",
             "coord": [
                 62.578888888889, 11.345
             ],
@@ -1343,7 +1343,7 @@
             ]
         },
         "ENRM": {
-            "callsign": "Rørvik",
+            "callsign": "RÃ¸rvik",
             "coord": [
                 64.838333333333, 11.146111111111
             ],
@@ -1352,7 +1352,7 @@
             ]
         },
         "ENRS": {
-            "callsign": "Røst",
+            "callsign": "RÃ¸st",
             "coord": [
                 67.527777777778, 12.103333333333
             ],
@@ -1379,7 +1379,7 @@
             ]
         },
         "ENST": {
-            "callsign": "Sørstokken",
+            "callsign": "SÃ¸rstokken",
             "coord": [
                 65.959722222222, 12.472222222222
             ],
@@ -1415,7 +1415,7 @@
             ]
         },
         "ENSO": {
-            "callsign": "Sørstokken",
+            "callsign": "SÃ¸rstokken",
             "coord": [
                 59.792777777778, 5.3397222222222
             ],
@@ -1442,7 +1442,7 @@
             ]
         },
         "ENSR": {
-            "callsign": "Sørkjosen",
+            "callsign": "SÃ¸rkjosen",
             "coord": [
                 69.786666666667, 20.959722222222
             ],
@@ -1451,7 +1451,7 @@
             ]
         },
         "ENTC": {
-            "callsign": "Tromsø",
+            "callsign": "TromsÃ¸",
             "coord": [
                 69.681388888889, 18.917777777778
             ],
@@ -1460,7 +1460,7 @@
             ]
         },
         "ENVA": {
-            "callsign": "Værnes",
+            "callsign": "VÃ¦rnes",
             "coord": [
                 63.4575, 10.924166666667
             ],
@@ -1469,7 +1469,7 @@
             ]
         },
         "ENVD": {
-            "callsign": "Vadsø",
+            "callsign": "VadsÃ¸",
             "coord": [
                 70.065277777778, 29.844722222222
             ],
@@ -1478,7 +1478,7 @@
             ]
         },
         "ENSS": {
-            "callsign": "Vardø",
+            "callsign": "VardÃ¸",
             "coord": [
                 70.355277777778, 31.045
             ],
@@ -1487,7 +1487,7 @@
             ]
         },
         "ENOL": {
-            "callsign": "Ørland",
+            "callsign": "Ã˜rland",
             "coord": [
                 63.7, 9.6027777777778
             ],
