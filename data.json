@@ -511,7 +511,13 @@
                 {
                     "id": "S9",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "9R",
+                        "17R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -522,7 +528,14 @@
                 {
                     "id": "S10",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "10R",
+                        "9R",
+                        "17R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -533,7 +546,14 @@
                 {
                     "id": "S11",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "10R",
+                        "9R",
+                        "17R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -544,7 +564,13 @@
                 {
                     "id": "S12",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "9R",
+                        "17R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -555,7 +581,13 @@
                 {
                     "id": "S13",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "13R",
+                        "9R",
+                        "17R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -566,7 +598,14 @@
                 {
                     "id": "S14",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "14",
+                        "13R",
+                        "17R",
+                        "9R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -577,7 +616,14 @@
                 {
                     "id": "S15",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "15R",
+                        "17R",
+                        "9R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -588,7 +634,14 @@
                 {
                     "id": "S16",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "15R",
+                        "17R",
+                        "9R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -599,7 +652,13 @@
                 {
                     "id": "S17",
                     "group": "ENSV",
-                    "owner": "",
+                    "owner": [
+                        "17R",
+                        "9R",
+                        "13R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
