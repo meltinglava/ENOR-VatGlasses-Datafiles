@@ -1780,7 +1780,7 @@
                                 ["595331","0120801"],
                                 ["595338","0120734"],
                                 ["595326","0120559"],
-                                ["595326","0120556"],
+                                ["595326","0120556"]
                             ]
                         },
                         {
@@ -8225,7 +8225,7 @@
                                 ["695057","0281948"],
                                 ["694906","0282415"],
                                 ["694900","0282500"],
-                                ["694524","0284806"], 
+                                ["694524","0284806"]
                             ]
                         },
                         {
@@ -10981,7 +10981,7 @@
         "CR": {"pre": ["ENVA"], "type":"APP","frequency":"118.600","callsign": "Værnes Approach"},
         "CD": {"pre": ["ENVA"], "type":"APP","frequency":"119.150","callsign": "Værnes Director"},
         "ER": {"pre": ["ENOL"], "type":"APP","frequency":"118.250","callsign": "Ørland Approach"},
-        "ED": {"pre": ["ENOL"], "type":"APP","frequency":"126.200","callsign": "Ørland Approach"},
+        "ED": {"pre": ["ENOL"], "type":"APP","frequency":"126.200","callsign": "Ørland Approach"}
     },
     "callsigns": {
         "DEL": {
