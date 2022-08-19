@@ -1,5 +1,6 @@
 {
-    "airspace": [
+    "airspace": 
+    [
         {
             "id": "S1",
             "group": "ENOS",
@@ -451,6 +452,33 @@
                             "points":[
 
                             ]
+                        },
+                        {
+                            "min":"95",
+                            "max":"214",
+                            "points":[
+
+                            ]
+                        },
+                        {
+                            "min":"115",
+                            "max":"214",
+                            "points":[
+
+                            ]
+                        },
+                        {
+                            "min":"155",
+                            "max":"214",
+                            "points":[
+
+                            ]
+                        },
+                        {
+                            "min":"215",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -467,7 +495,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -485,7 +524,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -503,7 +553,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -520,7 +581,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -538,7 +610,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -556,7 +639,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -573,7 +667,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -590,7 +695,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -608,7 +724,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -626,7 +753,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -644,7 +782,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -661,7 +810,18 @@
                     ],
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -672,7 +832,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -683,7 +854,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -694,7 +876,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -705,7 +898,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -716,7 +920,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -727,7 +942,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -738,7 +964,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -749,7 +986,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -760,7 +1008,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -771,7 +1030,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -782,7 +1052,18 @@
                     "owner": "R6",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -793,7 +1074,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -804,7 +1096,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -815,7 +1118,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -826,7 +1140,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -837,7 +1162,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -848,7 +1184,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -859,7 +1206,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -870,7 +1228,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -881,7 +1250,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -892,7 +1272,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -903,7 +1294,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -914,7 +1316,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -925,7 +1338,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -936,7 +1360,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -947,7 +1382,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -958,7 +1404,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -969,7 +1426,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -980,7 +1448,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -991,7 +1470,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1002,7 +1492,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1013,7 +1514,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1024,7 +1536,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1035,7 +1558,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1046,7 +1580,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1057,7 +1602,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1068,7 +1624,18 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
@@ -1079,14 +1646,24 @@
                     "owner": "",
                     "sectors": [
                         {
-
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
+                        },
+                        {
+                            "min":"",
+                            "max":"",
+                            "points":[
+                                
+                            ]
                         }
                     ]
 
                 }
-            ]
-        }
-    ],
+            ],
+
     "groups": {
         "ENOS":{"name": "Oslo ACC"},
         "ENSV":{"name": "Stavanger ACC"},
@@ -1095,7 +1672,8 @@
         "APP":{"name": "Approach TMA"},
         "TIA":{"name": "Traffic Information Area (RMZ)"},
         "TWR":{"name": "Tower"},
-        "TIZ":{"name": "Traffic Information Zone (RMZ)"}
+        "TIZ":{"name": "Traffic Information Zone (RMZ)"},
+        "HTZ":{"name": "Helicopter Traffic Zone"}
     },
     "positions": {
         "1R": {"colours": [{"hex": "#DFFF00"}], "pre": ["ENOS"], "type": "CTR", "frequency": "118.825","callsign": "Polaris Control"},
