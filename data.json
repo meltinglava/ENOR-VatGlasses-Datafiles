@@ -216,7 +216,15 @@
                 {
                     "id": "S2",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "2R",
+                        "1R",
+                        "6R",
+                        "4R",
+                        "8R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
                             "max": "214",
@@ -344,7 +352,14 @@
                 {
                     "id": "S3",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "3R",
+                        "4R",
+                        "8R",
+                        "6R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
                             
@@ -355,7 +370,13 @@
                 {
                     "id": "S4",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "4R",
+                        "8R",
+                        "6R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
                             "max":"214",
@@ -415,7 +436,14 @@
                 {
                     "id": "S5",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "5R",
+                        "4R",
+                        "8R",
+                        "6R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
                             "min":"95",
@@ -430,7 +458,13 @@
                 {
                     "id": "S6",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "6R",
+                        "4R",
+                        "8R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -441,7 +475,14 @@
                 {
                     "id": "S7",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "7R",
+                        "6R",
+                        "4R",
+                        "8R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
@@ -452,7 +493,14 @@
                 {
                     "id": "S8",
                     "group": "ENOS",
-                    "owner": "",
+                    "owner": [
+                        "8R",
+                        "5R",
+                        "4R",
+                        "6R",
+                        "NS",
+                        "NO"
+                    ],
                     "sectors": [
                         {
 
